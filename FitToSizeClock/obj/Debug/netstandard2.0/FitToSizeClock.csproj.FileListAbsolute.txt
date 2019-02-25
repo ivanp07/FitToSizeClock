@@ -1,0 +1,10 @@
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\bin\Debug\netstandard2.0\FitToSizeClock.deps.json
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\bin\Debug\netstandard2.0\FitToSizeClock.dll
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\bin\Debug\netstandard2.0\FitToSizeClock.pdb
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\obj\Debug\netstandard2.0\FitToSizeClock.csprojAssemblyReference.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\obj\Debug\netstandard2.0\FitToSizeClock.csproj.CoreCompileInputs.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\obj\Debug\netstandard2.0\FitToSizeClock.AssemblyInfoInputs.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\obj\Debug\netstandard2.0\FitToSizeClock.AssemblyInfo.cs
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\obj\Debug\netstandard2.0\FitToSizeClock.dll
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter05\FitToSizeClock\FitToSizeClock\FitToSizeClock\obj\Debug\netstandard2.0\FitToSizeClock.pdb
